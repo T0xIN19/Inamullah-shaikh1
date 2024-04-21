@@ -24,10 +24,10 @@
 - Mobile Penetration Testing by TCM
 - Api Pentesting by Hackify cyber security 
 
-Recognition 
+#### Recognition 
 - Bug-Bounty Recognition.
 
-Training & Workshops
+#### Training & Workshops
 - Delivered Cyber security Awareness workshops.
 
 
